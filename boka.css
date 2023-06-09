@@ -1,43 +1,11 @@
 body {
-    background-color: #d3d3d3;
+    background-color: royalblue;
     font-family: 'Times New Roman', Times, serif;
-    font-size: large;
 }
 
 header {
-    font-size: larger;
-}
-
-
-nav {
-    color: red;
-}
-
-a {
-    text-size-adjust: 12px;
-}
-
-a {
-    text-decoration: none;
-}
-
-section {
-    text-align: center;
-}
-
-a:link,
-a:visited {
-    color: blue;
-}
-
-a:hover {
-    color: black;
-}
-
-
-
-main {
-    text-align: left;
+    background-color: royalblue;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 nav a {
